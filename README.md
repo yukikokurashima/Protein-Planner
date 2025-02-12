@@ -17,7 +17,7 @@ The <meta charset="UTF-8"> tag ensures proper character encoding for the page.
 The <title> tag defines the title of the webpage, which is displayed in the browser tab.
 
 Body Section:
-The main heading <h1> introduces the purpose of the page.
+The main heading <h1> tag introduces the purpose of the page.
 An unordered list (<ul>) contains links to the individual meal plan pages, such as breakfast, lunch, and dinner.
 
 # How to Use
